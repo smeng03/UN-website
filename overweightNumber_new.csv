@@ -1,0 +1,16 @@
+Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,Units,[Age],[Reporting Type],2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),30,Eastern Asia,NUM_U5_M,<5Y,G,"5,678.90",,,,,"5,434.80",,,,,"5,594.80",,,,,"5,794.30",,,"5,664.70"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),432,Landlocked developing countries (LLDCs),NUM_U5_M,<5Y,G,"2,076.00",,,,,"2,250.80",,,,,"2,469.10",,,,,"2,675.50",,,"2,773.90"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),62,Central and Southern Asia,NUM_U5_M,<5Y,G,"5,146.20",,,,,"5,434.30",,,,,"5,850.80",,,,,"6,085.00",,,"6,226.50"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),143,Central Asia,NUM_U5_M,<5Y,G,532.9,,,,,517,,,,,618.6,,,,,724.6,,,725.3
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),419,Latin America and the Caribbean,NUM_U5_M,<5Y,G,"3,773.10",,,,,"3,799.20",,,,,"3,806.90",,,,,"3,919.10",,,"3,973.60"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),199,Least Developed Countries (LDCs),NUM_U5_M,<5Y,G,"2,457.30",,,,,"3,163.70",,,,,"3,997.80",,,,,"5,007.60",,,"5,731.00"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),15,Northern Africa,NUM_U5_M,<5Y,G,"1,673.00",,,,,"1,897.10",,,,,"2,264.50",,,,,"2,854.40",,,"3,027.20"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),747,Northern Africa and Western Asia,NUM_U5_M,<5Y,G,"3,225.20",,,,,"3,629.20",,,,,"4,286.60",,,,,"5,221.40",,,"5,526.90"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),543,Oceania (exc. Australia and New Zealand),NUM_U5_M,<5Y,G,55.9,,,,,71.3,,,,,90.5,,,,,111.9,,,126.9
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),35,South-Eastern Asia,NUM_U5_M,<5Y,G,"1,724.10",,,,,"2,261.30",,,,,"2,930.70",,,,,"3,838.00",,,"4,422.60"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),34,Southern Asia,NUM_U5_M,<5Y,G,"4,613.30",,,,,"4,917.30",,,,,"5,232.20",,,,,"5,360.40",,,"5,501.30"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),202,Sub-Saharan Africa,NUM_U5_M,<5Y,G,"4,902.30",,,,,"5,348.00",,,,,"5,814.50",,,,,"6,266.60",,,"6,494.40"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),145,Western Asia,NUM_U5_M,<5Y,G,"1,552.10",,,,,"1,732.00",,,,,"2,022.10",,,,,"2,367.00",,,"2,499.60"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),1,World,NUM_U5_M,<5Y,G,"30,091.80",,,,,"32,021.10",,,,,"35,222.90",,,,,"38,590.20",,,"40,063.50"
+2,2.2,2.2.2,SH_STA_OVRWGTN,Children moderately or severely overweight (millions),753,Eastern and South-Eastern Asia,NUM_U5_M,<5Y,G,"7,403.00",,,,,"7,696.10",,,,,"8,525.50",,,,,"9,632.30",,,"10,087.20"

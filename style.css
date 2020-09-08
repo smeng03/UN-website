@@ -1,0 +1,60 @@
+.jumbotron {
+	height: 300px;
+	background-color: limegreen;
+	margin-top: 50px;
+	padding: 20px;
+}
+
+.info {
+	padding: 20px;
+	line-height: 2 !important;
+}
+
+h3 {
+	line-height: 2;
+}
+
+#section2, #section4, #section6 {
+	background-color: #c1f0c1;
+	line-height: 2 !important;
+}
+
+.imgcap {
+	font-size: 14pt;
+}
+
+.small-img {
+	height: 250px;
+	width: 300px;
+}
+
+.carousel-inner >.item > img {
+	height: 650px;
+	width: 700px;
+}
+
+.carousel-caption {
+	top: 0;
+	bottom: auto;
+}
+
+#caption {
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	font-family: Lucida Calligraphy;
+	line-height: 2;
+}
+
+#myCarousel {
+	position: absolute;
+	top: 50px;
+	width: 100%;
+}
+
+canvas #myChart {
+	width: 100% !important;
+	height: 100% !important;
+	visibility: visible !important;
+}
+	
